@@ -30,6 +30,7 @@
     "graphql": "^0.13.2",
     "graphql-tag": "^2.9.2",
     "localforage": "^1.7.1",
+    "lodash.debounce": "^4.0.8",
     "lodash.uniqby": "^4.7.0",
     "mdi-react": "^5.0.0",
     "prop-types": "^15.6.1",
@@ -45,6 +46,7 @@
     "react-router-dom": "^5.0.0",
     "redbox-react": "^1.6.0",
     "source-map-support": "^0.5.9",
+    "superagent": "^5.1.0",
     "typeface-roboto": "^0.0.54"
   },
   "devDependencies": {
